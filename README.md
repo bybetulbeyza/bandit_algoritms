@@ -60,6 +60,7 @@ Ardından not defterlerinden istediğinizi açıp hücreleri sırayla çalışt�
 - numpy
 - pandas
 - matplotlib
+- Jupyter Notebook
 
 ## Notlar
 
